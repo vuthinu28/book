@@ -1,0 +1,22 @@
+.revenue__box,.orders__box,.pro__box{
+    padding:20px;
+    border-radius: 5px;
+}
+.revenue__box{
+    background: var(--card-bg-01);
+}
+.pro__box{
+    background: #ffcd94;
+}
+.orders__box{
+    background: #eac086;
+}
+h5{
+    font-size: 1.1rem;
+    font-weight: 500;
+    
+}
+span{
+    color:var(--primary-color);
+    font-weight: 600;
+}
